@@ -1,5 +1,5 @@
-# End to End Machine Learning Project Krish Naik
-
+# End to End Machine Learning Project  
+This project was done following the tutorial by Krish Naik
 ## Software and Tools Requirements
 
 1. [Github Account](https://github.com)
