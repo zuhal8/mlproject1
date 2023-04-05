@@ -15,11 +15,11 @@ conda create -p venv python==3.7 -y
 
 ### Introduction About the Data :
 
-This dataset is about students' performance.
+**The dataset:** This dataset is about students' performance.
 
-**The dataset** The goal is to predict `math_score` of given students.
+The goal is to predict `math_score` of given students.
 
-There are 10 independent variables (including `id`):
+There are 10 independent variables:
 
 * `gender`
 * `race_ethnicity` 
@@ -35,12 +35,12 @@ Target variable:
 Dataset Source Link :
 [https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
 
-
+<!-- This is a comment and won't be displayed in the final output.
 # AWS Deployment Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
-<!-- This is a comment and won't be displayed in the final output.
+
 # Screenshot of UI
 
 ![HomepageUI](./Screenshots/HomepageUI.jpg)  -->
